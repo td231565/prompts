@@ -12,3 +12,4 @@
 ## Reference
 - [導入 System Prompt：組織層面的挑戰與解決方案](https://ithelp.ithome.com.tw/articles/10390075)
 - [導入 System Prompt：實踐指南](https://ithelp.ithome.com.tw/articles/10391119)
+- [AI-Driven Development - 個人開發者的敏捷實踐](https://ithelp.ithome.com.tw/users/20149301/ironman/8437)
